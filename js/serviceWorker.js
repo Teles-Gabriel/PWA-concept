@@ -1,18 +1,18 @@
 const staticDevCoffee = "dev-coffee-site-v1"
 const assets = [
-  "/",
-  "/index.html",
-  "/css/style.css",
-  "/js/app.js",
-  "/images/coffee1.jpg",
-  "/images/coffee2.jpg",
-  "/images/coffee3.jpg",
-  "/images/coffee4.jpg",
-  "/images/coffee5.jpg",
-  "/images/coffee6.jpg",
-  "/images/coffee7.jpg",
-  "/images/coffee8.jpg",
-  "/images/coffee9.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/",
+  "https://teles-gabriel.github.io/PWA-concept/index.html",
+  "https://teles-gabriel.github.io/PWA-concept/css/style.css",
+  "https://teles-gabriel.github.io/PWA-concept/js/pp.js",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee1.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee2.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee3.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee4.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee5.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee6.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee7.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee8.jpg",
+  "https://teles-gabriel.github.io/PWA-concept/images/coffee9.jpg",
 ]
 
 self.addEventListener("install", installEvent => {

@@ -3,7 +3,7 @@ const assets = [
   "https://teles-gabriel.github.io/PWA-concept/",
   "https://teles-gabriel.github.io/PWA-concept/index.html",
   "https://teles-gabriel.github.io/PWA-concept/css/style.css",
-  "https://teles-gabriel.github.io/PWA-concept/js/pp.js",
+  "https://teles-gabriel.github.io/PWA-concept/js/app.js",
   "https://teles-gabriel.github.io/PWA-concept/images/coffee1.jpg",
   "https://teles-gabriel.github.io/PWA-concept/images/coffee2.jpg",
   "https://teles-gabriel.github.io/PWA-concept/images/coffee3.jpg",

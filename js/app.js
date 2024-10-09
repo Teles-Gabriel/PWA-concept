@@ -17,7 +17,7 @@ const showCoffees = () => {
       ({ name, image }) =>
         (output += `
                 <div class="card">
-                  <img class="card--avatar" src=${image} />
+                  <img class="card--avatar" src="${image}" loading="lazy" />
                   <h1 class="card--title">${name}</h1>
                   <a class="card--link" href="#">Taste</a>
                 </div>
